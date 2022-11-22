@@ -39,7 +39,7 @@ body {
 .paginacion {
   position: fixed;
   bottom: 0;
-  background: #100a1f;
+  /* background: #100a1f; */
   width: 100%;
   display: flex;
   justify-content: center;
